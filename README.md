@@ -5,13 +5,10 @@
 + employee.py
 + test_integration.py
 
-----
-  
 ###### employee.py file
 
 Contains `Employee` class that generate random and eligible parameters for POST request: name, salary and age
 This class with its methods will be used in tests in file test_integration.py.
-----
 
 ###### test_integration.py
 
